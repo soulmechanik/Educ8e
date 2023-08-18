@@ -155,7 +155,7 @@ section{
  
   border-radius:200px;
   width: 550px;
-  /* animation: Earth 80s linear infinite; */
+   animation: Earth 80s linear infinite;
   }
   
   @keyframes Earth{
